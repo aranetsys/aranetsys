@@ -1,15 +1,14 @@
-# <Your-Project-Title>
+# Ara Network System
 
 ## Description
+Aranet merupakan jenis usaha di bidang jasa antara lain :
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+- Jaringan internet
+- Desain grafis
+- Aplikasi berbasis web dan desktop
+- IT Konsultan
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
+```## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
@@ -64,4 +63,4 @@ If you created an application or package and would like other developers to cont
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+Go the extra mile and write tests for your application. Then provide examples on how to run them here.```
